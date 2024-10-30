@@ -7,7 +7,7 @@ html:not(.theme-light) {
     --nb0: #efefef;
     --nb1: #1e1e1e;
     --nb2: #e6e6e6c3;
-    --nb3: #e6e6e696;
+    --nb3: #c3c3c396;
     --nb4: #e6e6e646;
     --nb5: #1e1e1e63;
 
@@ -853,6 +853,7 @@ h6 {
 
 .maindisplay {
     min-height: 100vh;
+    backdrop-filter: blur(5px);
 }
 
 
@@ -922,6 +923,16 @@ h6 {
     max-width: 50vw;
 }
 
+@media all and (max-width: 1000px) {
+    .mainbody {
+        padding: var(--gap--small);
+    }
+
+    .main-maindisplay__container {
+        max-width: unset;
+    }
+}
+
 .DISPLAYED-IMAGE {
 }
 
@@ -948,7 +959,7 @@ h6 {
 }
 
 .container__reload {
-    margin-top: var(--gap--small);
+    margin: 0 var(--gap--small) var(--gap--small);
 }
 
 button.reload {

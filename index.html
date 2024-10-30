@@ -5,6 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <link rel="stylesheet" href="./css/style.css">
+    <script src="./js/head.js"></script>
+    <script src="./js/IMAGES.js"></script>
 </head>
 <body>
     <article id="error404">
@@ -53,23 +55,27 @@
 
         <article class="maindisplay__main main-maindisplay mainbody">
             <div class="main-maindisplay__container container">
-                <div class="JS-DISPLAYED-IMAGE smallblock">
-                    <div class="DISPLAYED-IMAGE__title">
-                        <h2>yo</h2>
-                    </div>
-                    <div>
-                        <img src="./assets/img/imagesBank/cs-2.jpg" alt="" css="JS-TOREPLACE">
-                    </div>
-                </div>
 
                 <div class="container__reload">
-                    <button class="unset reload JS-RELOAD trans">
+                    <button class="JS-RELOAD unset reload trans">
                         reload
                     </button>
+                </div>
+                
+                <div class="JS-DISPLAYED-IMAGE smallblock">
+                    <div class="DISPLAYED-IMAGE__title">
+                        <h2 class="JS-TITLE">yo</h2>
+                    </div>
+                    <div>
+                        <img src="./assets/img/imagesBank/cs-2.jpg" alt="" class="JS-IMG">
+                    </div>
                 </div>
             </div>
         </article>
     </article>
+
+
+    <script src="./js/reload.js"></script>
 
 </body>
 </html>
