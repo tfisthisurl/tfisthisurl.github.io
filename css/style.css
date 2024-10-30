@@ -8,7 +8,7 @@ html:not(.theme-light) {
     --nb1: #1e1e1e;
     --nb2: #e6e6e6c3;
     --nb3: #c3c3c396;
-    --nb4: #e6e6e646;
+    --nb4: #323d4bda;
     --nb5: #1e1e1e63;
 
     --color1: #304a66;
@@ -176,7 +176,6 @@ img {
 }
 
 p {
-    margin: 0 auto;
 }
 
 .overflow-auto {
@@ -813,6 +812,29 @@ h6 {
 
 
 
+/* ------------------------- BLOCKS -------------------------
+------------------------------------------------------------ */
+
+.smallblock {
+    background: var(--nb3);
+    padding: var(--gap--small);
+    backdrop-filter: blur(20px);
+    border-radius: var(--border-radius-small);
+}
+
+.smallblock--darker {
+    background: var(--nb4);
+}
+
+
+
+
+
+
+
+
+
+
 /* ------------------------- MIN SIZE -------------------------
 ------------------------------------------------------------ */
 
@@ -945,17 +967,6 @@ h6 {
 .DISPLAYED-IMAGE img {
     border-radius: var(--border-radius-small);
     box-shadow: 0 0 10px var(--nb5);
-}
-
-.smallblock {
-    background: var(--nb3);
-    padding: var(--gap--small);
-    backdrop-filter: blur(20px);
-    border-radius: var(--border-radius-small);
-}
-
-.smallblock.round {
-    border-radius: var(--border-radius-small);
 }
 
 .container__reload {
