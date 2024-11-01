@@ -909,6 +909,7 @@ h6 {
 }
 
 .mainnav__logo {
+    padding: var(--gap--small) 0;
     border-bottom: 1px solid var(--nb0);
 }
 
@@ -918,7 +919,7 @@ h6 {
     margin: auto;
 }
 
-.mainnav g, .mainnav svg {
+.mainnav g, .mainnav svg, .mainnav path {
     fill: var(--maincolor) !important;
 }
 
