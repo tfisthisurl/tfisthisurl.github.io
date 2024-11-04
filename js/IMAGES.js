@@ -73,5 +73,42 @@ var IMAGES = [
  {
         title: `Dev1ce at ESL Barcelona 16`,
         url: 'https://images2.imgbox.com/79/98/jK4lhkNS_o.jpg'
+    },
+      {
+        title: `BLAST Premier World Final 2024`,
+        url: 'https://images2.imgbox.com/27/cb/MHPErA6D_o.jpg'
+    },
+
+ {
+        title: `BLAST Premier World Final 2024`,
+        url: 'https://images2.imgbox.com/b4/b7/yecM20mm_o.jpg'
+    },
+ {
+        title: `BLAST Premier World Final 2024`,
+        url: 'https://images2.imgbox.com/3b/d1/0Ftj6aFn_o.jpg'
+    },
+ {
+        title: `BLAST Premier World Final 2024`,
+        url: 'https://images2.imgbox.com/54/39/W6m51DyG_o.jpg'
+    },
+ {
+        title: `BLAST Premier World Final 2024`,
+        url: 'https://images2.imgbox.com/41/69/YN4dFaxA_o.jpg'
+    },
+ {
+        title: `BLAST Premier World Final 2024`,
+        url: 'https://images2.imgbox.com/8a/10/A9Glecun_o.jpg'
+    },
+ {
+        title: `BLAST Premier World Final 2024`,
+        url: 'https://images2.imgbox.com/04/8a/ZLVmDAnv_o.jpg'
+    },
+ {
+        title: `BLAST Premier Spring Series`,
+        url: 'https://images2.imgbox.com/1e/f5/eWORAzFM_o.jpg'
+    },
+{
+        title: `IEM Cologne 2023`,
+        url: 'https://images2.imgbox.com/b4/1b/d2GxQDFH_o.jpg'
     }
 ]
