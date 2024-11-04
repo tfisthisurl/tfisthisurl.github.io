@@ -281,5 +281,52 @@ var IMAGES = [
  {
         title: `BLAST Premier Spring Final 2024 `,
         url: 'https://images2.imgbox.com/df/58/QdqZhts7_o.jpg'
+    },
+      {
+        title: `YaLLa Compass 2024`,
+        url: 'https://images2.imgbox.com/8b/67/Inpgsvbt_o.jpg'
+    },
+
+ {
+        title: `YaLLa Compass 2024`,
+        url: 'https://images2.imgbox.com/e0/68/2lrnqPDj_o.jpg'
+    },
+ {
+        title: `YaLLa Compass 2024`,
+        url: 'https://images2.imgbox.com/09/b6/s7l5ViA1_o.jpg'
+    },
+  {
+        title: `YaLLa Compass 2024`,
+        url: 'https://images2.imgbox.com/07/4f/PzTQCyGy_o.jpg'
+    },
+
+ {
+        title: `YaLLa Compass 2024`,
+        url: 'https://images2.imgbox.com/7d/77/xTifZsTI_o.jpg'
+    },
+ {
+        title: `YaLLa Compass 2024`,
+        url: 'https://images2.imgbox.com/a6/65/LQxpuo9t_o.jpg'
+    },
+ {
+        title: `YaLLa Compass 2024`,
+        url: 'https://images2.imgbox.com/78/cc/FVSZhSVE_o.jpg'
+    },
+ {
+        title: `YaLLa Compass 2024`,
+        url: 'https://images2.imgbox.com/6d/4f/tyXKxnT1_o.jpg'
+    },
+  {
+        title: `YaLLa Compass 2024`,
+        url: 'https://images2.imgbox.com/3a/35/H4vkHu2p_o.jpg'
+    },
+
+ {
+        title: `YaLLa Compass 2024`,
+        url: 'https://images2.imgbox.com/34/1b/fk40f4a5_o.jpg'
+    },
+ {
+        title: `YaLLa Compass 2024`,
+        url: 'https://images2.imgbox.com/a8/aa/Ofz2RxnA_o.jpg'
     }
 ]
