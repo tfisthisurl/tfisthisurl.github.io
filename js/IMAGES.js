@@ -22,11 +22,6 @@ var IMAGES = [
 
     {
         title: `lolololo`,
-        url: 'https://imgbox.com/mCeCcNuF'
-    },
-    
-    {
-        title: `Dev1ce at IEM Cologne 2023`,
-        url: 'https://liquipedia.net/commons/images/c/cf/Dev1ce_at_IEM_Cologne_2023.jpg'
-    },
+        url: 'https://images2.imgbox.com/97/5b/mCeCcNuF_o.jpg'
+    }
 ]
