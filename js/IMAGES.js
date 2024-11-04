@@ -467,5 +467,9 @@ var IMAGES = [
   {
         title: `BLAST.tv Paris Major 2023 Europe RMR B `,
         url: 'https://img-cdn.hltv.org/gallerypicture/bEj97qEAILFiUaOxmGelxR.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=160&mx=30&my=710&q=75&w=1200&s=109cec49a15baf06cd92e813e98842e7'
+    },
+     {
+        title: `une rare photo de Noa avec Dev1ce `,
+        url: 'https://images2.imgbox.com/fe/91/FwK0VG5h_o.jpg'
     }
 ]
