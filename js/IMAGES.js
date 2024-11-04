@@ -328,5 +328,39 @@ var IMAGES = [
  {
         title: `YaLLa Compass 2024`,
         url: 'https://images2.imgbox.com/a8/aa/Ofz2RxnA_o.jpg'
+    },
+      {
+        title: `ESL Pro League Season 19`,
+        url: 'https://images2.imgbox.com/72/65/NKh9NQj1_o.jpg'
+    },
+
+ {
+        title: `ESL Pro League Season 19`,
+        url: 'https://images2.imgbox.com/01/84/5olk3TZd_o.jpg'
+    },
+ {
+        title: `ESL Pro League Season 19`,
+        url: 'https://images2.imgbox.com/6a/f2/H1JLTiXJ_o.jpg'
+    },
+  {
+        title: `ESL Pro League Season 19`,
+        url: 'https://images2.imgbox.com/db/19/Nd9XXotO_o.jpg'
+    },
+
+ {
+        title: `ESL Pro League Season 19`,
+        url: 'https://images2.imgbox.com/5d/6d/h33kRwOr_o.jpg'
+    },
+ {
+        title: `ESL Pro League Season 19`,
+        url: 'https://images2.imgbox.com/13/ce/fUoYAwm3_o.jpg'
+    },
+ {
+        title: `ESL Pro League Season 19`,
+        url: 'https://images2.imgbox.com/a6/7a/MuNgEGDy_o.jpg'
+    },
+ {
+        title: `ESL Pro League Season 19`,
+        url: 'https://images2.imgbox.com/f4/5a/xG18SudR_o.jpg'
     }
 ]
