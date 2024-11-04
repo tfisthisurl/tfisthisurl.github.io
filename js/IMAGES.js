@@ -21,7 +21,12 @@ var IMAGES = [
     },
 
     {
-        title: `lolololo`,
+        title: `Dev1ce at IEM Cologne 2023`,
         url: 'https://images2.imgbox.com/97/5b/mCeCcNuF_o.jpg'
+    },
+
+     {
+        title: `Dev1ce at PGL Major Stockholm 2021`,
+        url: 'https://images2.imgbox.com/e1/b3/xMNgOV1j_o.jpg'
     }
 ]
