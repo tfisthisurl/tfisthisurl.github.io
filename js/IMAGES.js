@@ -392,5 +392,80 @@ var IMAGES = [
  {
         title: `IEM Chengdu 2024`,
         url: 'https://images2.imgbox.com/11/dc/PNEDxpw4_o.jpg'
+    },
+     {
+        title: `PGL CS2 Major Copenhagen 2024 `,
+        url: 'https://img-cdn.hltv.org/gallerypicture/rnKnOTqTDOtJlc79ATQmw5.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=160&mx=30&my=710&q=75&w=1200&s=f49e0f4c170835e3388a6cb744376b0b'
+    },
+
+ {
+        title: `PGL CS2 Major Copenhagen 2024 `,
+        url: 'https://img-cdn.hltv.org/gallerypicture/RB79EBiyzZeIYY4IMA3gMm.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=160&mx=30&my=710&q=75&w=1200&s=7618da3f2056c98f00a80ca99e31b0b2'
+    },
+ {
+        title: `PGL CS2 Major Copenhagen 2024`,
+        url: 'https://img-cdn.hltv.org/gallerypicture/IEOHiTff4G1eULYAaC9IhL.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=160&mx=30&my=710&q=75&w=1200&s=89fef3751e64436d7ee40a3ffeea7c9d'
+    },
+  {
+        title: `PGL CS2 Major Copenhagen 2024 Europe RMR B `,
+        url: 'https://img-cdn.hltv.org/gallerypicture/z4XL9LPf-IWVU-xOHSXnbp.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=160&mx=30&my=710&q=75&w=1200&s=a2b0c0c840c2ffa13e95fd645bbb7c9d'
+    },
+
+ {
+        title: `PGL CS2 Major Copenhagen 2024 Europe RMR B `,
+        url: 'https://img-cdn.hltv.org/gallerypicture/Cg-Ya2AjonX_f5MzN-hC-5.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=160&mx=30&my=710&q=75&w=1200&s=4b10dfa043f5f074d16a3c7e2e1e2f54'
+    },
+ {
+        title: `IEM Katowice 2024 Playin`,
+        url: 'https://img-cdn.hltv.org/gallerypicture/DbXAudl2jA6yjPIem4ZjbI.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=160&mx=30&my=710&q=75&w=1200&s=28a716ad3321f6b0a8321d58a6ed06b4'
+    },
+ {
+        title: `IEM Katowice 2024 Playin`,
+        url: 'https://img-cdn.hltv.org/gallerypicture/_ZiL_fkPrwNb2I9pPlyPRN.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=160&mx=30&my=710&q=75&w=1200&s=08bbf31f1e6dc0b25ff6e0a48242b391'
+    },
+ {
+        title: `IEM Katowice 2024 Playin`,
+        url: 'https://img-cdn.hltv.org/gallerypicture/qS4yPEgGEZCvNZ3D8iPkH5.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=160&mx=30&my=710&q=75&w=1200&s=a458540708b689f538194a6b4425e87c'
+    },
+ {
+        title: `HLTV Awards`,
+        url: 'https://img-cdn.hltv.org/gallerypicture/65-N7fHv39OuWq3Ez_wIyf.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=160&mx=30&my=710&q=75&w=1200&s=68ebb361ab6da7231fc8845add4e553c'
+    },
+ {
+        title: `BLAST Premier Fall Final 2023`,
+        url: 'https://img-cdn.hltv.org/gallerypicture/qO-s5UJKTRiGx9v6vz6N73.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=160&mx=30&my=710&q=75&w=1200&s=a68258dfe0c4a0d8e90300afa404d351'
+    },
+{
+        title: `CS Asia Championships 2023`,
+        url: 'https://img-cdn.hltv.org/gallerypicture/UWO2AWguNRuhEeCalYBBY9.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=160&mx=30&my=710&q=75&w=1200&s=33ba98563c8412b23302175536df4ceb'
+    },
+{
+        title: `CS Asia Championships 2023`,
+        url: 'https://img-cdn.hltv.org/gallerypicture/UmWtIB7r2ZLoJCSdZjkOu4.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=160&mx=30&my=710&q=75&w=1200&s=4a9cd360ccd867c0782c494e5d1eebf0'
+    },
+{
+        title: `ESL Pro League Season 18 `,
+        url: 'https://img-cdn.hltv.org/gallerypicture/VJ0bd8JYwmd2E-q46oZNyt.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=160&mx=30&my=710&q=75&w=1200&s=a4b056e91562ddd4c3c3e766b970e9ee'
+    },
+{
+        title: `IEM Cologne 2023  `,
+        url: 'https://img-cdn.hltv.org/gallerypicture/aSVW4jZatq-PKQDjR4hTvh.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=160&mx=30&my=710&q=75&w=1200&s=00ebeddec0e090a9059f12e289981c6d'
+    },
+
+{
+        title: `BLAST Premier Fall Groups 2023 `,
+        url: 'https://img-cdn.hltv.org/gallerypicture/pAWgUtFws5I2N7moXQ3D1v.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=160&mx=30&my=710&q=75&w=1200&s=c765e2884c02bbf6e6383482f37e7331'
+    },
+{
+        title: `BLAST Premier Spring Final 2023 `,
+        url: 'https://img-cdn.hltv.org/gallerypicture/xLKX2jHtQVsZHxHdNgRMxq.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=160&mx=30&my=710&q=75&w=1200&s=40bcad7048abc047b40c8050ecf014fa'
+    },
+{
+        title: `IEM Dallas 2023  `,
+        url: 'https://img-cdn.hltv.org/gallerypicture/NISkE3C6w5Egz3TnkojaP0.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=160&mx=30&my=710&q=75&w=1200&s=2bc946327fc487587cbea5f1f0fb744c'
+    },
+  {
+        title: `BLAST.tv Paris Major 2023 Europe RMR B `,
+        url: 'https://img-cdn.hltv.org/gallerypicture/bEj97qEAILFiUaOxmGelxR.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=160&mx=30&my=710&q=75&w=1200&s=109cec49a15baf06cd92e813e98842e7'
     }
 ]
