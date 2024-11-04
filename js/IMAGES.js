@@ -164,5 +164,35 @@ var IMAGES = [
  {
         title: `IEM Rio 2024`,
         url: 'https://images2.imgbox.com/e4/56/yQeLMK6m_o.jpg'
+    },
+     {
+        title: `BLAST Premier Fall Final 2024`,
+        url: 'https://images2.imgbox.com/ab/bd/T5dE60vg_o.jpg'
+    },
+
+ {
+        title: `BLAST Premier Fall Final 2024`,
+        url: 'https://images2.imgbox.com/ff/ed/rmGscBQl_o.jpg'
+    },
+ {
+        title: `BLAST Premier Fall Final 2024`,
+        url: 'https://images2.imgbox.com/7d/18/0HuJ25mF_o.jpg'
+    },
+  {
+        title: `BLAST Premier Fall Final 2024`,
+        url: 'https://images2.imgbox.com/1b/a2/EQi9n7EZ_o.jpg'
+    },
+
+ {
+        title: `BLAST Premier Fall Final 2024`,
+        url: 'https://images2.imgbox.com/0b/1e/ZHGpv56L_o.jpg'
+    },
+ {
+        title: `BLAST Premier Fall Final 2024`,
+        url: 'https://images2.imgbox.com/5f/bf/IUrKhA8n_o.jpg'
+    },
+  {
+        title: `BLAST Premier Fall Final 2024`,
+        url: 'https://images2.imgbox.com/ba/ba/ljPRd8dU_o.jpg'
     }
 ]
