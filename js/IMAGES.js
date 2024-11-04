@@ -19,4 +19,9 @@ var IMAGES = [
         title: `<i>i don't know what the fuck is his name</i> is shooting`,
         url: './assets/img/imagesBank/cs-4.jpg'
     }
+
+    {
+        title: `lolololo`,
+        url: 'https://imgbox.com/mCeCcNuF'
+}
 ]
