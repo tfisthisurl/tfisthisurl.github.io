@@ -255,5 +255,31 @@ var IMAGES = [
  {
         title: `IEM Cologne 2024`,
         url: 'https://images2.imgbox.com/55/9f/zpvmzAjd_o.jpg'
+    },
+     {
+        title: `BLAST Premier Spring Final 2024 `,
+        url: 'https://images2.imgbox.com/d9/58/1znDaCss_o.jpg'
+    },
+
+ {
+        title: `BLAST Premier Spring Final 2024 `,
+        url: 'https://images2.imgbox.com/79/25/wIfJ8auT_o.jpg'
+    },
+ {
+        title: `BLAST Premier Spring Final 2024 `,
+        url: 'https://images2.imgbox.com/9b/ad/MoEekw4S_o.jpg'
+    },
+  {
+        title: `BLAST Premier Spring Final 2024 `,
+        url: 'https://images2.imgbox.com/10/47/pq81PUZv_o.jpg'
+    },
+
+ {
+        title: `BLAST Premier Spring Final 2024 `,
+        url: 'https://images2.imgbox.com/2b/21/Z8o6J1UY_o.jpg'
+    },
+ {
+        title: `BLAST Premier Spring Final 2024 `,
+        url: 'https://images2.imgbox.com/df/58/QdqZhts7_o.jpg'
     }
 ]
