@@ -362,5 +362,35 @@ var IMAGES = [
  {
         title: `ESL Pro League Season 19`,
         url: 'https://images2.imgbox.com/f4/5a/xG18SudR_o.jpg'
+    },
+    {
+        title: `IEM Chengdu 2024`,
+        url: 'https://images2.imgbox.com/16/26/BtjDJeR3_o.jpg'
+    },
+
+ {
+        title: `IEM Chengdu 2024`,
+        url: 'https://images2.imgbox.com/d5/0f/f0yK5Yik_o.jpg'
+    },
+ {
+        title: `IEM Chengdu 2024`,
+        url: 'https://images2.imgbox.com/d8/db/B54crzUn_o.jpg'
+    },
+  {
+        title: `IEM Chengdu 2024`,
+        url: 'https://images2.imgbox.com/c4/8c/J3DI0cPN_o.jpg'
+    },
+
+ {
+        title: `IEM Chengdu 2024`,
+        url: 'https://images2.imgbox.com/2c/bb/fR5S3Aph_o.jpg'
+    },
+ {
+        title: `IEM Chengdu 2024`,
+        url: 'https://images2.imgbox.com/9e/a4/84sUmqo5_o.jpg'
+    },
+ {
+        title: `IEM Chengdu 2024`,
+        url: 'https://images2.imgbox.com/11/dc/PNEDxpw4_o.jpg'
     }
 ]
