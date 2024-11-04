@@ -110,5 +110,46 @@ var IMAGES = [
 {
         title: `IEM Cologne 2023`,
         url: 'https://images2.imgbox.com/b4/1b/d2GxQDFH_o.jpg'
+    },
+      {
+        title: `IEM Rio 2024`,
+        url: 'https://images2.imgbox.com/e2/ed/v8leElxD_o.jpg'
+    },
+
+ {
+        title: `IEM Rio 2024`,
+        url: 'https://images2.imgbox.com/2c/a6/kUG1wY28_o.jpg'
+    },
+ {
+        title: `IEM Rio 2024`,
+        url: 'https://images2.imgbox.com/42/a2/bTAcslyI_o.jpg'
+    },
+ {
+        title: `IEM Rio 2024`,
+        url: 'https://images2.imgbox.com/4d/c7/Pwl5DV2X_o.jpg'
+    },
+ {
+        title: `BLAST Premier World Final 2024`,
+        url: 'https://images2.imgbox.com/0e/0e/bSjtBPpM_o.jpg'
+    },
+ {
+        title: `BLAST Premier World Final 2024`,
+        url: 'https://images2.imgbox.com/e0/ca/CBoNPZfL_o.jpg'
+    },
+ {
+        title: `BLAST Premier World Final 2024`,
+        url: 'https://images2.imgbox.com/fd/f1/AX7A3ZOz_o.jpg'
+    },
+ {
+        title: `BLAST Premier World Final 2024`,
+        url: 'https://images2.imgbox.com/cc/7e/SrrfH4yz_o.jpg'
+    },
+{
+        title: `BLAST Premier World Final 2024`,
+        url: 'https://images2.imgbox.com/6b/73/TCm697cf_o.jpg'
+    },
+{
+        title: `BLAST Premier World Final 2024`,
+        url: 'https://images2.imgbox.com/f5/30/GVkI4rXW_o.jpg'
     }
 ]
