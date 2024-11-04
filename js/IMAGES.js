@@ -49,5 +49,29 @@ var IMAGES = [
  {
         title: `Dev1ce at EPL S4`,
         url: 'https://images2.imgbox.com/b6/e8/en3zsqYG_o.jpg'
+    },
+      {
+        title: ` Dev1ce at EMS One Summer 2013 Finals`,
+        url: 'https://images2.imgbox.com/64/11/iRoSWavb_o.jpg'
+    },
+ {
+        title: `Dev1ce at DHI I`,
+        url: 'https://images2.imgbox.com/de/6d/SAvPHRxa_o.jpg'
+    },
+ {
+        title: ` Dev1ce at FBM S3`,
+        url: 'https://images2.imgbox.com/95/45/O5Dmi6wP_o.jpg'
+    },
+ {
+        title: `Dev1ce at DHVAL15`,
+        url: 'https://images2.imgbox.com/09/08/tH3IpzEg_o.jpg'
+    },
+ {
+        title: `Device at Fragbite Masters S5`,
+        url: 'https://images2.imgbox.com/8e/97/fOUOO6WE_o.jpg'
+    },
+ {
+        title: `Dev1ce at ESL Barcelona 16`,
+        url: 'https://images2.imgbox.com/79/98/jK4lhkNS_o.jpg'
     }
 ]
